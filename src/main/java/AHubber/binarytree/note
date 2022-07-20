@@ -1,0 +1,24 @@
+1. What is a tree?
+
+ It is a non linear data structure used for storing the data;
+ it is made up of nodes and edges without having any cycly
+ each node in a tree can point to n number of nodes in a tree
+ It is a way of representing hierarchical structre with a parent
+ node called as root and many levels of additinal nodes
+
+
+ Binary tree:
+ A tree is called as Binary tree, if each node has zero one or two children not more than that.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+WHat is Trie?
+trie basically comes from the word retrieval
+The main purpose of this data structure is to retrieve
+ stored information very fase.
+
+root  empty
+
+  d         h
+ o u     a    o
+ g s     t    m
+   t          e
+
+1. dog
+2.dust
+3.hat
+4. home
+
+
+
+Auto complete feature is implemented by Trie
+many websites used autocomplete feature, which suggest user rest of the word
+when typing
+2. search contacts in phone
+3. spell check in the ms word.
+
+A trie node in a trie represents a single alphabet of the word.
+each letter has 1 trie node
+
+ A TrieNode class in the Trie consists of 2 data members
+
+1. TrieNode[] children
+2. boolean isWord
+
+
+

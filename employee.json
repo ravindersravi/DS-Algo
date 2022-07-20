@@ -1,0 +1,24 @@
+[
+
+  {"employeeId": "123",
+    "firstName": "ravinder",
+    "lastName": "sabbani",
+    "email": "sabbani@gmail.com",
+    "gender": "male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "salary": 67893,
+    "rating": 5
+  },
+  {"employeeId": "124",
+    "firstName": "ravi",
+    "lastName": "s",
+    "email": "saa@gmail.com",
+    "gender": "male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "salary": 46893,
+    "rating": 4
+  }
+
+]
